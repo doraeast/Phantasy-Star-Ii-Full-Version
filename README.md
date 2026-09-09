@@ -239,3 +239,6 @@ This repository serves as the official landing page for Phantasy Star II. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Phantasy Star II today!**
+
+---
+**Last updated:** 2026-09-09 20:47:25 UTC
