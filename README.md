@@ -241,4 +241,4 @@ This repository serves as the official landing page for Phantasy Star II. The so
 **Get the most recent version of Phantasy Star II today!**
 
 ---
-**Last updated:** 2026-09-13 15:59:17 UTC
+**Last updated:** 2026-09-13 18:45:12 UTC
